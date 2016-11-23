@@ -18,21 +18,21 @@ var DocumentsComponent = (function () {
                 description: "gibberish asdfasdf",
                 file_url: "http://youtube.com",
                 updated_at: "11/16/16",
-                image_url: "http://youtube.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
             },
             {
                 title: "My Second Doc",
                 description: "gibberish asdfasdf",
                 file_url: "http://youtube.com",
                 updated_at: "11/16/16",
-                image_url: "http://youtube.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
             },
             {
                 title: "My Last Doc",
                 description: "gibberish asdfasdf",
                 file_url: "http://youtube.com",
                 updated_at: "11/16/16",
-                image_url: "http://youtube.com",
+                image_url: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg",
             }
         ];
     }
